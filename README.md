@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **simon.gerasse@gmail.com**
 
-- 📄 Know about my experiences [My Notion](https://simon-gerasse.notion.site/Simon-G-rasse-18e16209c2ce4e92a221b7b2dff4109e?pvs=4)
+- 📄 Know about my experiences [**My Notion**](https://simon-gerasse.notion.site/Simon-G-rasse-18e16209c2ce4e92a221b7b2dff4109e?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
