@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simon Gérasse</h1>
 <h3 align="center">Coding adventure of a former sound engineer</h3>
 
-- 🔭 I’m currently working on my internship studies : 👨‍🎓CNAM PACA / 👨‍💼CIMPA Aix-en-Provence
+- 👨‍🎓Diploma : "Computer and multimedia engineer" - CNAM PACA (Toulon)
+  
+- 👨‍💼Business : AMARIS CONSULTING (Strasbourg)
 
 - 📫 How to reach me **simon.gerasse@gmail.com**
 
