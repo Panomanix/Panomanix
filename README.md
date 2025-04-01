@@ -3,7 +3,7 @@
 
 - 👨‍🎓Diploma : "Computer and multimedia engineer" - CNAM PACA (Toulon)
   
-- 👨‍💼Business : AMARIS CONSULTING (Strasbourg)
+- 👨‍💼Business : COBOL / C# Developer at AMARIS CONSULTING (Strasbourg)
 
 - 📫 How to reach me **simon.gerasse@gmail.com**
 
